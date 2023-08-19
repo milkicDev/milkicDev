@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @milkicDev
+👋 Hi, I’m milkic.Dev
